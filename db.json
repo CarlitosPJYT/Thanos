@@ -1,12 +1,12 @@
 {
 	"code" : [
-  	{
-    	"docs" : "index.html",
-      ".gitignore" : "git",
-      "README" : "MarkDown",
-      "db" : "json",
-      "script" : "js"
-    }
-  ],
-  "Issues" : [{"index" : "html"}]
+          {
+               "docs" : "index.html",
+               ".gitignore" : "git",
+               "README" : "MarkDown",
+               "db" : "json",
+               "script" : "js"
+          }
+     ],
+     "Issues" : [{"index" : "html"}]
 }
